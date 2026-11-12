@@ -26,3 +26,15 @@ date,time,drink_type,location,mood,energy,taste_rating
 27-10-2026,08:06,coffee,home,happy,4,5
 27-10-2026,12:23,coffee,cafe,happy,4,5
 27-10-2026,16:05,tea,home,happy,4,5
+28-10-2026,09:28,coffee,home,neutral,2,5
+28-10-2026,10:31,coffee,home,neutral,3,5
+28-10-2026,19:30,tea,home,neutral,3,5
+29-10-2026,08:10,coffee,home,neutral,4,5
+29-10-2026,11:24,tea,home,neutral,4,5
+29-10-2026,15:43,tea,home,neutral,4,5
+29-10-2026,21:12,tea,home,neutral,2,4
+30-10-2026,07:30,coffee,home,neutral,1,4
+30-10-2026,09:57,coffee,cafe,neutral,3,5
+30-10-2026,17:23,tea,home,neutral,4,5
+31-10-2026,10:45,coffee,cafe,neutral,3,4
+01-11-2026,08:12,coffee,home,meutral,3,5
