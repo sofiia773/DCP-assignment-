@@ -5,7 +5,7 @@ date,time,drink_type,location,mood,energy,taste_rating
 20-10-2026,16:40,coffee,home,neutral,3,5
 20-10-2026,18:20,diet coke,home,happy,4,5 
 20-10-2026,19:50,tea,home,happy,3,5
-21-10-2026,08:05,coffee,home,heutral,2,5
+21-10-2026,08:05,coffee,home,neutral,2,5
 21-10-2026,13:44,diet coke,home,happy,4,5
 21-10-2026,18:34,diet coke,home,happy,4,5
 22-10-2026,09:23,coffee,home,neutral,2,5
@@ -37,21 +37,22 @@ date,time,drink_type,location,mood,energy,taste_rating
 30-10-2026,09:57,coffee,cafe,neutral,3,5
 30-10-2026,17:23,tea,home,neutral,4,5
 31-10-2026,10:45,coffee,cafe,neutral,3,4
-01-11-2026,08:12,coffee,home,meutral,3,5
-01-11-2026,09:43,coffee,home,happy,4,5
+01-11-2026,08:12,coffee,home,neutral,3,5
+01-11-2026,09:43,coffee,home,neutral,4,5
 02-11-2026,11:17,tea,university,neutral,3,4
-03-11-2026,08:52,coffee,home,happy,5,5
-04-11-2026,14:26,coffee,cafe,happy,4,5
+03-11-2026,08:52,coffee,home,neutral,5,5
+04-11-2026,14:26,coffee,cafe,neutral,4,5
 05-11-2026,10:38,tea,home,neutral,3,4
-06-11-2026,12:47,coffee,university,happy,4,4
-07-11-2026,09:13,coffee,home,happy,5,5
+06-11-2026,12:47,coffee,university,neutral,4,4
+07-11-2026,09:13,coffee,home,neutral,5,5
 08-11-2026,15:34,tea,cafe,neutral,3,4
-09-11-2026,08:41,coffee,home,happy,4,5
+09-11-2026,08:41,coffee,home,neutral,4,5
 10-11-2026,13:23,diet coke,university,neutral,3,5
-11-11-2026,10:56,tea,home,happy,4,5
-12-11-2026,09:37,coffee,home,happy,4,5
+11-11-2026,10:56,tea,home,neutral,4,5
+12-11-2026,09:37,coffee,home,neutral,4,5
 12-11-2026,12:34,coffee,home,neutral,4,5
 13-11-2026,07:36,tea,home,neutral,3,5
 13-11-2026,14:38,tea,home,neutral,3,5
 13-11-2026,19:56,hot chocolate,home,neutral,4,5
 14-11-2026,08:09,coffee,home,neutral,2,5
+14-11-2026,15:56,tea,home,neutral,3,5
