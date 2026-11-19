@@ -45,5 +45,46 @@ df.to_sql("drinks", conn, if_exists="replace", index=False) #переносит�
 
 print("Data saved successfully!")
 
+
+# Count drinks by type
+query = """
+SELECT drink_type, COUNT(*) AS total
+FROM drinks
+GROUP BY drink_type
+ORDER BY total DESC
+"""
+
+result = pd.read_sql_query(query, conn)
+
+print("Number of drinks by type:")
+print(result)
+
+
+# Average taste rating by drink type
+query = """
+SELECT drink_type, AVG(taste_rating) AS average_taste
+FROM drinks
+GROUP BY drink_type
+ORDER BY average_taste DESC
+"""
+
+result = pd.read_sql_query(query, conn)
+
+print("Average taste rating by drink type:")
+print(result)
+
+
+# Count drinks at university
+query = """
+SELECT COUNT(*) AS university_drinks
+FROM drinks
+WHERE location = 'university'
+"""
+
+result = pd.read_sql_query(query, conn)
+
+print("Number of drinks at university:")
+print(result)
+
 # Close database connection
 conn.close()
