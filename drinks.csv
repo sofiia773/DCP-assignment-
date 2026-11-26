@@ -80,3 +80,6 @@ date,time,drink_type,location,mood,energy,taste_rating
 25-11-2026,08:54,coffee,home,neutral,2,5
 25-11-2026,13:20,coffee,cafe,neutral,2,3
 25-11-2026,14:31,coke,work,neutral,3,5
+26-11-2026,07:28,coffee,home,neutral,4,5
+26-11-2026,13:09,coffee,home,neutral,5,4
+26-11-2026,19:43,coke,home,happy,4,5
